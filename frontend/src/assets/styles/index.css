@@ -2,6 +2,11 @@ main {
   min-height: 80vh;
 }
 
+table td,
+table th {
+  text-align: center;
+}
+
 .rating span {
   margin: 0.1rem;
 }
