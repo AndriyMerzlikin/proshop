@@ -71,6 +71,78 @@ const products = [
     rating: 4,
     numReviews: 12,
   },
+  {
+    name: "Apple AirPods Max Silver",
+    image: "/images/Apple AirPods Max Silver.jpg",
+    description:
+      "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
+    brand: "Apple",
+    category: "Electronics",
+    price: 79.99,
+    countInStock: 10,
+    rating: 5,
+    numReviews: 8,
+  },
+  {
+    name: "Apple AirPods Pro 2",
+    image: "/images/Apple AirPods Pro 2 (MQD83).jpg",
+    description:
+      "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
+    brand: "Apple",
+    category: "Electronics",
+    price: 49.99,
+    countInStock: 8,
+    rating: 4,
+    numReviews: 5,
+  },
+  {
+    name: "Apple HomePod mini Space Gray",
+    image: "/images/Apple HomePod mini Space Gray.jpg",
+    description:
+      "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
+    brand: "Apple",
+    category: "Electronics",
+    price: 19.99,
+    countInStock: 5,
+    rating: 3,
+    numReviews: 10,
+  },
+  {
+    name: "Apple iPhone 15 Pro Max 1TB Black Titanium",
+    image: "/images/Apple iPhone 15 Pro Max 1TB Black Titanium.jpg",
+    description:
+      "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
+    brand: "Apple",
+    category: "Electronics",
+    price: 39.99,
+    countInStock: 12,
+    rating: 5,
+    numReviews: 12,
+  },
+  {
+    name: "Apple MacBook Air",
+    image: "/images/Apple MacBook Air.jpg",
+    description:
+      "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
+    brand: "Apple",
+    category: "Electronics",
+    price: 129.99,
+    countInStock: 10,
+    rating: 2,
+    numReviews: 23,
+  },
+  {
+    name: "Mac Mini 8CPU 256Gb M2 Silver",
+    image: "/images/Mac Mini 8CPU 256Gb M2 Silver.jpg",
+    description:
+      "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
+    brand: "Apple",
+    category: "Electronics",
+    price: 299.99,
+    countInStock: 4,
+    rating: 4,
+    numReviews: 2,
+  },
 ];
 
 export default products;
